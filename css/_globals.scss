@@ -1,0 +1,40 @@
+// body{
+//     // @mixin fluid-text(десктоп, мобайл версии); PS: dля обычного текста
+  
+//     font-family: var(--font-family-base);
+//     font-weight: most usable;
+//     font-size: most usable;
+//     line-height: most usable or 1.28;
+//     color: var(--color-dark);
+//     background-color: var(--color-light);
+//   }
+  
+//   a,
+//   button,
+//   input,
+//   textarea,
+//   svg *{
+//     transition-duration: var(--transition-duration);
+//   }
+  
+//   a {
+//     text-decoration: none;
+//     color: inherit;
+//   }
+  
+//   h1, h2, h3, h4{
+//     font-weight:most usable;
+//   }
+  
+//   h1 {
+//     @inlcude fliud-text( десктоп версия, мобайл версия);
+//   }
+//   h2 {
+//     @inlcude fliud-text( десктоп версия, мобайл версия);
+//   }
+//   h3 {
+//     @inlcude fliud-text( десктоп версия, мобайл версия);
+//   }
+//   h4 {
+//     @inlcude fliud-text( десктоп версия, мобайл версия);
+//   }
